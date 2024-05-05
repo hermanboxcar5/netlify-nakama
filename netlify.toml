@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://dev-nakama.winterpixel.io/:splat"
+  force = false
