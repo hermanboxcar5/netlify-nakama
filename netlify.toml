@@ -1,5 +1,5 @@
 [[redirects]]
   from = "/*"
-  status = 302
+  status = 307
   to = "https://dev-nakama.winterpixel.io/:splat"
   force = false
