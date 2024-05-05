@@ -1,4 +1,5 @@
 [[redirects]]
   from = "/*"
+  status = 302
   to = "https://dev-nakama.winterpixel.io/:splat"
   force = false
